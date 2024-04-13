@@ -1,2 +1,3 @@
 # Reddit_clone
-Reddit is a full-stack web application built using the MERN (MongoDB, Express.js, React, Node.js) stack, offering a familiar and user-friendly experience similar to the popular platform Reddit.
+• A modern full-stack Reddit Clone with responsive UI developed with React, Next.js, MySQL, Tailwind CSS etc.
+• Features include infinite scrolling for dynamically loading posts, authentication using NextAuth & Google, custom feed for authenticated users, highly functional post editor, comment functionality with nested replies, etc.
